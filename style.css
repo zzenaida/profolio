@@ -1,0 +1,33 @@
+html{
+  height:100%;
+  background-image:
+  url('https://images.pexels.com/photos/1086177/pexels-photo-1086177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-size:cover;
+}
+#banner{
+  padding-top:22%;
+  font-family:'Indie Flower', cursive;
+  font-size:35px;
+  display:flex;
+  justify-content:center;
+  
+  
+}
+
+#heading {
+  height: 100%;
+  font-family: 'Indie Flower', cursive;
+  display: flex;
+  justify-content: space-around;
+  color:#d419b0;
+}
+
+.navbar {
+  display:flex;
+  justify-content:space-around;
+  background-color:white;
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+}
